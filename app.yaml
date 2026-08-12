@@ -1,0 +1,6 @@
+runtime: python313
+
+handlers:
+- url: .*
+  script: main.app
+
